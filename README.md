@@ -61,7 +61,7 @@ python app.py
 # Navigate to frontend folder
 npm install axios
 npm start
-
+```
 ## ⌨️ Project-2: CLI Interactive Management System
 
 Located in the `/project-2` directory is a standalone, text-based interactive system designed for high-efficiency data entry and management without the overhead of a GUI.
